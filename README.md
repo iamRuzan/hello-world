@@ -1,5 +1,6 @@
 # hello-world
-My first Repository
+My Firts Respiratory
 
-This is the new edit of my file.
-I love to learn more about this.
+My username is IamRuzan, I am from Philippines
+I love to learn new thing, including this kind
+of site. :) I hope to learn more,.
